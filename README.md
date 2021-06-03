@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zntrimi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Swift and Python
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on educational indutry
 - 📫 How to reach me ...@zntrimi on Instagram!
